@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignorar archivos .DS_Store en macOS
+.DS_Store
+
+# Ignorar entorno virtual (si tienes un entorno virtual en la carpeta vehicles_env)
+vehicles_env/
+
+# Ignorar archivos de Python compilados
+__pycache__/
+
+# Ignorar archivos de configuración de VS Code
+.vscode/
+
+# Ignorar directorios de dependencias
+node_modules/
