@@ -19,7 +19,7 @@ pip install -r requirements.txt
 3. Despliegue
 
 Enlace a la aplicación desplegada en Render:
-https://project-7.onrender.com/
+https://project-7-7fkf.onrender.com/
 
 Enlace al repositorio en GitHub:
 https://github.com/leonnic99/project_7
